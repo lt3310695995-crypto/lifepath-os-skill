@@ -1,0 +1,14 @@
+# Local runtime data and credentials do not belong in the skill repository.
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.log
+.env
+.env.*
+.lifepath-os/
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db
